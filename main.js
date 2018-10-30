@@ -949,7 +949,7 @@ var GroupService = /** @class */ (function () {
                 url: 'https://docs.google.com/forms/d/1R8yViGaVts2_Xq5fwzScTQb7CBY-jNr-UKkVDRyA90Y/edit'
             },
             {
-                name: 'Java Developers IL',
+                name: 'Java Developers',
                 url: 'https://goo.gl/forms/XbVed7tlVPyhZ2T42'
             },
             {
@@ -971,6 +971,14 @@ var GroupService = /** @class */ (function () {
             {
                 name: 'Go Developers',
                 url: 'https://goo.gl/forms/6NJDsHzMMs61Dmnp1'
+            },
+            {
+                name: 'HR Experts',
+                url: 'https://goo.gl/forms/NBwcSkfsNhw8OjS12'
+            },
+            {
+                name: 'Mobile Developers',
+                url: 'https://goo.gl/forms/9Eac5yTUcVfmbplp2'
             }
         ];
     }
